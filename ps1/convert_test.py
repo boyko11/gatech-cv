@@ -12,4 +12,3 @@ image_red = np.copy(image)[:, :, 2]
 cv2.imwrite('1.wide.red.png',image_red)
 
 print "DONE"
-
